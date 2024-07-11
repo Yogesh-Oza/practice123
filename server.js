@@ -1,4 +1,5 @@
 console.log("Starting");
+console.log("task 1");
 
 //github command
 
@@ -9,6 +10,7 @@ console.log("Starting");
 // git branch -M main
 // git remote add origin https://github.com/Yogesh-Oza/practice123.git
 // git push -u origin main
+
 // …or push an existing repository from the command line
 // git remote add origin https://github.com/Yogesh-Oza/practice123.git
 // git branch -M main
